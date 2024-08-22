@@ -5,4 +5,4 @@
    
 2-1. EDA focused on Data Visualizaiton_Telco Customer Churn case
 
-3. Feature Engineering_Telcom Telecome Employee Churn case
+3. Feature Engineering_Telcom Telecome Customer Churn case
